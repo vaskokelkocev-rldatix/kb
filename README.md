@@ -1,2 +1,2 @@
 # kb
-knolwdge base
+knowledge base
